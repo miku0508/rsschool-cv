@@ -31,5 +31,9 @@
   html {
     scroll-behavior: smooth; 
   }
-
+  .avatarcenter {
+    margin: 10px auto 20px;
+    display: block;
+    right: 200px;
+}
 
