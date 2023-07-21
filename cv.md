@@ -6,7 +6,7 @@
 __Contact information:__
 ___Email:___ __mihailklenevskij@gmail.com__
 ___GitHub:___ __miku0508__
-***
+***пше
 ___all about me:___
 >_Absolutely I haven't good skills,amn't an excellent team worker._
 >>_All I wanna do is stretch my brains_
@@ -21,7 +21,7 @@ __Code Example__
 ```
 const getLetter = (str,num) => !``&&str[num - 1]||``;
 ```
-___educatiion___
+___education___
 higher education
 ***git
 ___english___
