@@ -11,13 +11,21 @@
     max-width: 1440px;
     margin: 0 auto;
   }
+  .main-container {
+    display: flex;
+    max-width: 1440px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
   .nav-list {
     display: flex;
     justify-content: flex-end;
     align-items: center;  
-  }.nav-list {
+  }
+  .nav-list {
     list-style: none;
-  }.nav-link {
+  }
+  .nav-link {
     padding: 0 20px;
     line-height: 50px;
   }
@@ -56,4 +64,16 @@ background-color: #000;
 }
 .maiky {
   width: 50%;
+}
+.Contacts {
+  width: 50%;
+}
+.Summary {
+  width: 50%;
+}
+.Skills {
+  width: 50%;
+}
+.Code {
+  width : 50%
 }
