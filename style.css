@@ -75,5 +75,24 @@ background-color: #000;
   width: 50%;
 }
 .Code {
-  width : 50%
+  width : 50%;
 } 
+.Courses {
+  width: 50%;
+}
+.Projects {
+  width: 50%;
+}
+.Education {
+  width: 50%;
+}
+.English {
+  width: 50%;
+}
+.element {
+  width: 100%;
+  height: 10px;
+  background-color: blue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
