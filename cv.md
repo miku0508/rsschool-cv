@@ -1,5 +1,5 @@
 <a id="anchor"></a>
-<image src="./assets/img/avatar-001-round.png">
+<image src="./assets/img/adav 001.png">
 #Mihail Klenevskiy
 ##Junior Frontend Developer
 ***
