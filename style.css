@@ -1,0 +1,118 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container { 
+  display:flex;
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .main-container {
+    display: flex;
+    max-width: 1440px;
+    margin-left: 150px;
+    margin-right: 150px;
+    flex-wrap: wrap;
+  }
+  .nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;  
+  }
+  .nav-list {
+    list-style: none;
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  }
+
+* {
+    box-sizing: border-box;
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+  .avatarcenter {
+    margin: 10px auto 20px;
+    display: block;
+}
+.nav {
+  font: bold ;
+  color: #de2b2b;
+  border: 2px solid #000;
+  background-color: bisque;
+}
+.begin {
+  font:caption;
+  color: #de2b2b;
+}
+.naming {
+    margin: 10px auto 20 px;
+    display:block;
+  }
+  .rubi {
+  width: 50%;
+  background-color: #000;
+  }
+  .muni {
+    width: 50%;
+  }
+  .Contacts {
+    width: 50%;
+  }
+  .Summary {
+    width: 50%;
+  }
+  .Skills {
+    width: 50%;
+  }
+  .Code {
+    width : 50%;
+  } 
+  .Courses {
+    width: 50%;
+  }
+  .Projects {
+    width: 50%;
+  }
+  .Education {
+    width: 50%;
+  }
+  .English {
+    width: 50%;
+  }
+  .element {
+    width: 100%;
+    height: 10px;
+    background-color: rgb(2, 1, 1);
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .elemento {
+    width: 100%;
+    height: 2px;background-color: rgb(2, 1, 1);
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+  @keyframes color {
+    0% {
+      background-color: rgb(43, 179, 174);}
+      50% { 
+        background-color: white;
+      }
+      100% {background-color: rgb(48, 173, 185);}
+  }
+  .b-w {height: 40px;
+    text-align: center;
+    animation: color 5s infinite;
+  }
