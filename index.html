@@ -71,7 +71,13 @@
     <h2>CODE</h2>
     </header>
     <ul>
-      <li>const getLetter = (str,num) => !``&&str[num - 1]||``</li>
+      <li>function squareDigits(num) {<br>
+        let arrOfNum = Array.from(String(num),Number);
+        <br>for (let i = 0; i < arrOfNum.length; i++) {<br>
+            arrOfNum[i] = arrOfNum[i]**2;<br>
+        }<br>
+        return +arrOfNum.join('');<br>
+    }</li>
     </ul>
   </section>
   <section class="elemento"></section>
